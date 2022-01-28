@@ -12,9 +12,9 @@ Scanner scan = new Scanner(System.in);
 
     public void tNotes(String[] tname, String[] notes)
     { 
-      System.out.println("\nSelect a lesson/note(0-4)");
+     
+ System.out.println("\nSelect a lesson/note(0-4)");
       selc = scan.nextInt(); 
-
     }
  
       //     public String toString()
